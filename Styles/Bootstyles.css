@@ -1,0 +1,59 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  body{
+    background-image: url("../Images/Seamless\ Shoelace.jpeg");
+    
+}
+
+p1{
+    display: block;
+    text-align: center;
+    border-radius: 20px 20px;
+    background-color: rgb(212, 207, 207);
+    padding: 10px 20px;
+    font-family:sans-serif;
+}
+
+h1{
+    font-size: 24;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    display: block;
+    text-align: center;
+    color: blanchedalmond;
+    border-radius: 20px 20px;
+    background-color: rgb(87, 84, 84);
+    padding: 10px 20px;
+}
+
+p2{
+    display: block;
+    text-align: center;
+    border-radius: 20px 20px;
+    background-color: rgb(212, 207, 207);
+    padding: 10px 20px;
+    font-family:sans-serif;

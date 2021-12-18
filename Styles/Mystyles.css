@@ -1,0 +1,67 @@
+body{
+    background-image: url("../Images/Seamless\ Background.jpeg");
+    
+}
+
+.post-preview {
+    border-radius: 20px 20px;
+    background-color: white;
+    padding: 10px 20px;
+    font-family:sans-serif;
+}
+
+.post-preview2 {
+    border-radius: 20px 20px;
+    background-color: rgb(128, 123, 123);
+    padding: 10px 20px;
+    font-family:sans-serif;
+}
+
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.image1{
+    display: block;
+    text-align: center;
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 32px;
+}
+
+.video1{
+    display: block;
+    text-align: center;
+}
+h2{
+    font-family: sans-serif;
+}
+
+.border-top{
+    background-color: rgb(196, 196, 191);
+}
+
+.copyright1{
+    color: black;
+    display: block;
+    text-align: center;
+}
+
+p1{
+    display: block;
+    text-align: center;
+}
+
+ol1{
+    font-family:initial;
+}
+
+ul1{
+    font-family:initial;
+}
+
+my-4{
+    color: black;
+}
